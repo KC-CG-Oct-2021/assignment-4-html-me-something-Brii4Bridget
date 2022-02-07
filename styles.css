@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+
+/* 2c  id */
+#mainHeading {
+    color: red;
+}
+
+#mainHeading {
+    text-align:center;
+}
+
+p {
+    margin: 25px 20px 25px 20px;
+  }
+  img {
+    padding: 25px;
+  }
+
+  /* 2a element */
+  body {
+    margin: 8px;
+    display: block
+  }
+
+
+  /* 2b and 3c class */
+    .funParagraph {
+    color: green;
+  }
+  
+
+  /* TRYING TO CENTER MY IMAGES  */
+  .centeredImage {
+    text-align: center;
+  }
