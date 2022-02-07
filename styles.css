@@ -9,11 +9,16 @@
     text-align:center;
 }
 
+h2 {
+  text-align: center;
+  font-size: 3.0em;
+}
+
 p {
-    margin: 25px 20px 25px 20px;
+    margin: 35px 20px 35px 20px;
   }
   img {
-    padding: 25px;
+    padding: 5px 5px;
   }
 
   /* 2a element */
@@ -28,8 +33,40 @@ p {
     color: green;
   }
   
+   /* TRYING TO DO A BACKGROUND COLOR */
+   
+   header, footer {
+    background-color: rgb(221, 172, 37);
+    font-size: 2.0em;
+}
+
+  .funParagraph, p {
+   background-color: rgb(163, 197, 153);
+   font-size: 2.0em;
+}
+
+
+      /* body {
+     background-color: #eee595;
+   } */
+ 
 
   /* TRYING TO CENTER MY IMAGES  */
-  .centeredImage {
+  /* .centeredImage {
     text-align: center;
-  }
+  } */
+
+  /* img { 
+    float: left; 
+  } */
+
+
+  /* div.rightside_image {
+    float: right;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #cccccc;
+    text-align: center;
+    font-size: 0.8em;
+    font-style: italic;
+    } */
